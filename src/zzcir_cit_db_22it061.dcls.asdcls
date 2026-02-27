@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZZCIR_CIT_DB_22IT061'
+@MappingRole: true
+define role ZZCIR_CIT_DB_22IT061 {
+  grant select on ZZCIR_CIT_DB_22IT061
+  where TRUE;
+}
